@@ -28,6 +28,7 @@ Projetos desenvolvidos durante as aulas do quinto trimestre de Análise e Desenv
 Esses projetos foram desenvolvidos com as seguintes tecnologias:
 - [Java](https://www.java.com/pt-BR)
 - [NetBeans](https://netbeans.apache.org)
+- [Whimsical](https://whimsical.com)
 
 ## Screenshots 🚧
 <div style="display: flex; flex-direction: 'column'; align-items: 'center';">
